@@ -4,6 +4,26 @@
 
 int main(void){
 	int Keycount=4,Key,Function,FunctionKey=0,i,j,k; 
+	printf("          .ooOOoo.\n");
+	printf("         o8888888o\n");
+	printf("        88\"  *  \"88\n");
+	printf("       (|  o o  |)\n");
+	printf("        0\\  ^  /0\n");
+	printf("          ) = (\n");
+	printf("         /     \\\n");
+	printf("        (       )\n");
+	printf("       (         )\n");
+	printf("      (           )\n");
+	printf("     (             )\n");
+	printf("    (               )\n");
+	printf("   (                 )\n");
+	printf("    (               )\n");
+	printf("     (             )\n");
+	printf("      (           )\n");
+	printf("       (         )\n");
+	printf("        (       )\n");
+	printf("         '-----'\n");
+
 	
 	do{//先輸入一次密碼，錯的話就重新輸入，直到次數滿 
 		printf("輸入密碼(剩餘 %d 次) : ",Keycount);
